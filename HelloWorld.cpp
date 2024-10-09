@@ -1,7 +1,7 @@
 #include<iostream>
 
 int showString(){
-	std::cout<<"str";
+	std::cout<<"new";
 }
 
 int main(){
