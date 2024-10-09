@@ -1,0 +1,3 @@
+int newshow(){
+	printf("");
+}
